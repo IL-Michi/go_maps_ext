@@ -7,15 +7,15 @@
 	<sheets>
 		<sDEF>
 			<ROOT>
-				<TCEforms>
+				
 					<sheetTitle>
 						LLL:EXT:go_maps_ext/Resources/Private/Language/locallang.xlf:tx_gomapsext_flexform_settings
 					</sheetTitle>
-				</TCEforms>
+			
 				<type>array</type>
 				<el>
 					<settings.map>
-						<TCEforms>
+					
 							<label>
 								LLL:EXT:go_maps_ext/Resources/Private/Language/locallang.xlf:tx_gomapsext_flexform_settings.map
 							</label>
@@ -32,10 +32,10 @@
 									</suggest>
 								</wizards>
 							</config>
-						</TCEforms>
+					
 					</settings.map>
                     <settings.ff.apiKey>
-                        <TCEforms>
+                     
                             <label>
                                 LLL:EXT:go_maps_ext/Resources/Private/Language/locallang.xlf:tx_gomapsext_flexform_settings.apiKey
                             </label>
@@ -51,7 +51,7 @@
                                     </suggest>
                                 </wizards>
                             </config>
-                        </TCEforms>
+                      
                     </settings.ff.apiKey>
 				</el>
 			</ROOT>
